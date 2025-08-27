@@ -7,7 +7,7 @@
   <a href="mailto:deepanshumahey5@gmail.com"><img src="https://img.shields.io/badge/Email-deepanshumahey5%40gmail.com-7C00FF?logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/deepanshu-mahey" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Deepanshu%20Mahey-00A0DC?logo=linkedin&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=dm0005&style=flat&label=Visitors" alt="profile views"/>
-  <img src="https://img.shields.io/badge/Location-New%20Delhi,%20India-00FFA3"/>
+  
 </p>
 
 <p align="center">
@@ -18,9 +18,9 @@
 
 ### 🧪 About Me
 
-* **Lead Security Engineer** with **3.9+ years** in **pen-testing, VA/PT, malware analysis, and reverse engineering**.
+* **Lead Security Engineer** with **4+ years** in **pen-testing, VA/PT, malware analysis, and reverse engineering**.
 * Strong focus on **Web & API security**, **Android malware triage**, and **tool-assisted reverse engineering**.
-* **TryHackMe:** top **2%** ( **MASTER** ), CTF enjoyer and lifelong learner.
+* **TryHackMe:** top **2%** ( **GURU** ), CTF enjoyer and lifelong learner.
 
 > "Break it to make it safer."
 
@@ -94,7 +94,7 @@
 
 ### 🧩 CTF / TryHackMe
 
-* Rank: **MASTER** (Top **2%** globally) — handle: **dmahey0005 \[0xB]**
+* Rank: **GURU** (Top **2%** globally) — handle: **dmahey0005 \[0xB]**
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=500&color=7C00FF&center=true&vCenter=true&width=800&lines=Hack%2C+Analyze%2C+Report%2C+Repeat."/>
@@ -104,8 +104,7 @@
 
 ### 🎓 Education
 
-* **B.Tech (CSE), Maharaja Surajmal Institute of Technology (2017–2021)** — **CGPA 8.11/10**
-* **Bal Bhavan International School (CBSE)** — **82%**
+* **B.Tech (CSE), Maharaja Surajmal Institute of Technology (2017–2021)** 
 
 ---
 
